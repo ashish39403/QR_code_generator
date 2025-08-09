@@ -1,3 +1,6 @@
+LINK FOR THE APP : https://qrcodegenerator-ucw9n8hytnzhvc6rebkqtw.streamlit.app/
+
+
 # 📷 Simple QR Code Generator (Streamlit + Python)
 
 A simple QR Code Generator built with **Python** and **Streamlit**.  
